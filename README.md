@@ -5,15 +5,7 @@
 </p>
 
 ```text
-┌────────────────────────────────────────────┐
-│                                            │
-│   ANDREAS FIKI DARMAWAN                    │
-│   Mahasiswa Teknik Informatika             │
-│   Universitas Madura, Pamekasan            │
-│                                            │
-│   「 THE JOURNEY BEGINS 」                 │
-│                                            │
-└────────────────────────────────────────────┘
+
 ```
 
 <p align="center">
